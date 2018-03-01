@@ -54,6 +54,8 @@
       "src/topical.ts",
       "samples/alarmBot",
       "samples/simpleAlarmBot",
+      "samples/slotFiller", 
+      "samples/prettyConsole"
     ]
   }
   
